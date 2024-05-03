@@ -30,7 +30,7 @@ It is essential that you have ```Node.js``` on your machine to run the applicati
 $git clone https://github.com/gabriel-cheng/gamecon-system
 ```
 
-2°- Inside the cloned directory, runthe following command to install all packages:
+2°- Inside the cloned directory, run the following command to install all packages:
 ```
 $npm install
 ```
