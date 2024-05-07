@@ -1,10 +1,6 @@
-import dotenv from "dotenv";
-dotenv.config();
 import express from "express";
 import index_route from "./router/index_route.js";
 import sequelize from "./config/database_conf.js";
-
-console.log("App → ", process.env.DATABASE_NAME);
 
 try {
 
